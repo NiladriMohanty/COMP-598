@@ -1,0 +1,60 @@
+\begin{thebibliography}{1}
+
+\bibitem{diem2013icdar}
+Markus Diem, Stefan Fiel, Angelika Garz, Manuel Keglevic, Florian Kleber, and
+  Robert Sablatnig.
+\newblock Icdar 2013 competition on handwritten digit recognition (hdrc 2013).
+\newblock In {\em Document Analysis and Recognition (ICDAR), 2013 12th
+  International Conference on}, pages 1422--1427. IEEE, 2013.
+
+\bibitem{liu2003handwritten}
+Cheng-Lin Liu, Kazuki Nakashima, Hiroshi Sako, and Hiromichi Fujisawa.
+\newblock Handwritten digit recognition: benchmarking of state-of-the-art
+  techniques.
+\newblock {\em Pattern Recognition}, 36(10):2271--2285, 2003.
+
+\bibitem{lazebnik2006beyond}
+Svetlana Lazebnik, Cordelia Schmid, and Jean Ponce.
+\newblock Beyond bags of features: Spatial pyramid matching for recognizing
+  natural scene categories.
+\newblock In {\em Computer Vision and Pattern Recognition, 2006 IEEE Computer
+  Society Conference on}, volume~2, pages 2169--2178. IEEE, 2006.
+
+\bibitem{ciresan2012multi}
+Dan Ciresan, Ueli Meier, and J{\"u}rgen Schmidhuber.
+\newblock Multi-column deep neural networks for image classification.
+\newblock In {\em Computer Vision and Pattern Recognition (CVPR), 2012 IEEE
+  Conference on}, pages 3642--3649. IEEE, 2012.
+
+\bibitem{gil2014handwritten}
+Adriano~Mendes Gil, C{\'\i}cero Ferreira~Fernandes Costa~Filho, and Marly
+  Guimar{\~a}es~Fernandes Costa.
+\newblock Handwritten digit recognition using svm binary classifiers and
+  unbalanced decision trees.
+\newblock In {\em Image Analysis and Recognition}, pages 246--255. Springer,
+  2014.
+
+\bibitem{Maji09fastand}
+Subhransu Maji and Jitendra Malik.
+\newblock Fast and accurate digit classification, 2009.
+
+\bibitem{chen2006combining}
+Yi-Wei Chen and Chih-Jen Lin.
+\newblock Combining svms with various feature selection strategies.
+\newblock In {\em Feature extraction}, pages 315--324. Springer, 2006.
+
+\bibitem{larochelle2007empirical}
+Hugo Larochelle, Dumitru Erhan, Aaron Courville, James Bergstra, and Yoshua
+  Bengio.
+\newblock An empirical evaluation of deep architectures on problems with many
+  factors of variation.
+\newblock In {\em Proceedings of the 24th international conference on Machine
+  learning}, pages 473--480. ACM, 2007.
+
+\bibitem{jia2014caffe}
+Yangqing Jia, Evan Shelhamer, Jeff Donahue, Sergey Karayev, Jonathan Long, Ross
+  Girshick, Sergio Guadarrama, and Trevor Darrell.
+\newblock Caffe: Convolutional architecture for fast feature embedding.
+\newblock {\em arXiv preprint arXiv:1408.5093}, 2014.
+
+\end{thebibliography}
