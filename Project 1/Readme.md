@@ -1,4 +1,4 @@
-Instructions
+# Movement Detection algorithm
 
 1. Dataset is in CSV file format.
 2. Dataset & all scripts should be in current directory.
