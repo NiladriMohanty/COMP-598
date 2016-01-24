@@ -1,5 +1,13 @@
 # Movement Detection algorithm
 
+Scrapped thousands of basketball images using different search engines (google, bing, yahoo etc). Classified into 2 categories, Dribbling and Dunking using Logistic Regression.
+
+There are many feature descriptor in the literature that has been used for object detection. We used the histogram of oriented gradients (HOG) to classify different actions in the basketball game. 
+
+This feature gives information about the shape of an object in an image in terms of intensity gradients. HOG gives local geometric transformation information that's why it has been used for detecting movement of pedestrians. 
+
+We used HOG features with regularized Logistic Regression on basketball images to detect their action (movement) category. We classified different categories of basketball actions.
+
 1. Dataset is in CSV file format.
 2. Dataset & all scripts should be in current directory.
 3. Run "dribble_features.m" script to extract Hog features from dribble images and save it in a csv format file.
